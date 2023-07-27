@@ -1,4 +1,4 @@
-# shopping-cart
+# alura-shopping-cart
 Simple project made as a challenge from the Alura course "Java: Working with lists and data collections"
 
 
