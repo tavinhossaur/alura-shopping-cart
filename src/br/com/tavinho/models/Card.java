@@ -8,6 +8,7 @@ import br.com.tavinho.exceptions.NegativeValueException;
  *
  * @author  Octávio Barassa
  * @version 1.0
+ * @since   "first commit"
  */
 public class Card {
     private double balance;

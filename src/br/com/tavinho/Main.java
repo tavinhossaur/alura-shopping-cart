@@ -15,6 +15,8 @@ public class Main {
     /**
      * The main method is the entry point of the program.
      *
+     * @author                          Octávio Barassa
+     * @since                           "first commit"
      * @param args                      The command-line arguments (not used in this program).
      * @throws NegativeValueException   If the card buy method tries to make a transfer with a value higher than the balance.
      */
@@ -84,7 +86,6 @@ public class Main {
                 COMPRAS REALIZADAS (RESPECTIVAMENTE):
 
                 %s
-
                 **********************
                 """, shoppingCart
         );

@@ -5,6 +5,7 @@ package br.com.tavinho.exceptions;
  *
  * @author  Octávio Barassa
  * @version 1.0
+ * @since   "first commit"
  */
 public class NegativeValueException extends RuntimeException{
     /**
